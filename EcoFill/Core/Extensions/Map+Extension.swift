@@ -6,7 +6,7 @@
 //
 
 import MapKit
-import SwiftUICore
+import SwiftUI
 
 // MARK: - MKCoordinateRegion
 

@@ -5,7 +5,7 @@
 //  Created by Alexander Andrianov on 13.05.2025.
 //
 
-import SwiftUICore
+import SwiftUI
 
 enum InputContent {
   case fullName

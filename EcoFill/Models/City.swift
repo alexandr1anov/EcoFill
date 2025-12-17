@@ -5,7 +5,7 @@
 //  Created by Alexander Andrianov on 14.05.2025.
 //
 
-import SwiftUICore
+import SwiftUI
 
 enum City: String, Identifiable, CaseIterable {
   case kyiv = "Kyiv"
